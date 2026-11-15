@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "mergeCommit": "1fe62c6e8c6c1032ef95ea6b34765ac6c6fc35ab",
+  "packageRepositoryCommit": "49d05bd4b906abe3a50ed09bf180b960bb032083",
+  "execution": {
+    "marker": "B_EXECUTED",
+    "version": "1.1.0",
+    "pubCredentialSeen": true,
+    "ghTokenSeen": true
+  },
+  "manualDispatch": false
+}
